@@ -1,0 +1,4 @@
+{
+  "name": "Mission Control E2E Test Target",
+  "install": "npm install"
+}
